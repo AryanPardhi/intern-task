@@ -1,0 +1,23 @@
+- my-nextjs-app
+  - node_modules
+  - public
+    - favicon.ico
+    - vercel.svg
+  - src
+    - app
+      - favicon.ico
+      - globals.css
+      - layout.js
+      - page.js
+    - Components
+      - center1.js
+      - navBar.js
+      - sideBar.js
+    - Pages
+      - home.js
+      - stories.js
+    - .gitignore
+    - next.config.js
+    - package.json
+    - README.md
+
